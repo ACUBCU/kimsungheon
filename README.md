@@ -4,4 +4,4 @@ gongju 2026 summer ros2
 ---
 
 --1일차
-turtleism
+아무것도 모르겠다...
